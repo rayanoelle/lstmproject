@@ -1,0 +1,6 @@
+port: 8080
+model_path: ../models/cpu_util/cnnBilstm/
+model_count: 101
+interval: 300
+prometheus_address: http://192.168.39.122:30723
+barycenter_path: ../data/barycenters/
